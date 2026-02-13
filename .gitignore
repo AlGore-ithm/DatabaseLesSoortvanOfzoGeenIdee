@@ -57,6 +57,7 @@ dkms.conf
 # Voor de zekerheid
 **/*.exe
 .vs
+.idea
 **/*.dll
 **/*.user
 **/*.mdf
