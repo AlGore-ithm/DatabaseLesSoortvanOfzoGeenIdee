@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Voor de zekerheid
+**/*.exe
+.vs
+**/*.dll
+**/*.user
+**/*.mdf
+**/*.ldf
+**/*.db
+opdracht1/bin/
+opdracht1/obj/
