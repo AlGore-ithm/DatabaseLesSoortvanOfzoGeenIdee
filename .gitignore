@@ -62,5 +62,5 @@ dkms.conf
 **/*.mdf
 **/*.ldf
 **/*.db
-opdracht1/bin/
-opdracht1/obj/
+**/bin/
+**/obj/
